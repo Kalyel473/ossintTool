@@ -105,7 +105,7 @@ O **OSINTool v4.0** é uma ferramenta completa de OSINT (*Open Source Intelligen
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/osinttool.git
+git clone https://github.com/kalyel473/osinttool.git
 cd osinttool
 ```
 
